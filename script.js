@@ -49,5 +49,5 @@ const footerYear = document.querySelector(".footer-bottom p");
 
 if (footerYear) {
     footerYear.textContent =
-        `© ${currentYear} STEMTech with Lulu. All Rights Reserved.`;
+        `© ${currentYear} Stem With Chichi. All Rights Reserved.`;
 }
