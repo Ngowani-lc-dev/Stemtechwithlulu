@@ -480,6 +480,9 @@ section {
     object-fit: cover;
 }
 
+ .h1 {
+color: #d1457f;
+ }
    /*CONTACT SECTION*/
 
 
@@ -564,6 +567,7 @@ footer {
 .footer-content p {
     color: #ffffff;
 }
+
 
 .footer-content a {
     display: block;
