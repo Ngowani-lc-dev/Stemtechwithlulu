@@ -439,7 +439,7 @@ section {
     margin-bottom: 25px;
 }
 
-.about-text p:not(.small-title) {
+.about-text p {
     color: #d1457f;
 
     font-size: 18px;
