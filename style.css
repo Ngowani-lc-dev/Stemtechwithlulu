@@ -466,7 +466,10 @@ section {
 .about-text {
     flex: 1;
 }
-
+.small-title{
+    color: #d1457f;
+    font-size: large;
+}
 .about-image {
     flex: 1;
     display: flex;
